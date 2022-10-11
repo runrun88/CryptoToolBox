@@ -8,9 +8,9 @@
 # 中心化大所
 
 1. [欧易](https://www.lybg1688.com/join/1910967)（OKX，前Okex）[备用链接](https://www.okx.com/join/1910967)
-   国内交易量第一。目前**唯一一个**允许大陆新用户注册的头部交易所。使用此邀请码：**1910967** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，土豪可忽略。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)
+   国内交易量第一。目前**唯一一个**允许大陆新用户注册的头部交易所。使用此邀请码：**1910967** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，土豪可忽略。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易注册方法](https://www.notion.so/0c79922d67f144f2b6d243cecd869a14)
 2. [币安](https://accounts.binance.com/zh-TC/register?ref=UOJ26YSK)（Binance）
-   全球交易量第一。中国大陆注册币安国际版方法：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723 "币安交易所新号注册及身份证KYC过审")
+   全球交易量第一。中国大陆注册币安国际版方法：[币安注册方法](https://www.notion.so/4c2847deb1764d6ebeb342f52fa3a262 "币安交易所新号注册及身份证KYC过审")
 3. [芝麻开门](https://www.gate.ac/signup/632970)（Gate.io）[备用链接](https://www.gate.io/signup/632970)
    山寨币数量最多。
 4. [FTX](ftx.com)
