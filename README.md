@@ -7,11 +7,11 @@
 
 # 中心化大所
 
-1. [欧易](https://www.ouyicn.wang/join/18830268)（OKX，前Okex）[备用链接](https://www.okx.com/join/18830268)
-   国内交易量第一。目前**唯一一个**允许大陆新用户注册的头部交易所。使用此邀请码：**18830268** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，土豪可忽略。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)
-2. [币安](https://accounts.binance.com/zh-CN/register?ref=25203322)（Binance）
+1. [欧易](https://www.ouyicn.wang/join/1910967)（OKX，前Okex）[备用链接](https://www.okx.com/join/1910967)
+   国内交易量第一。目前**唯一一个**允许大陆新用户注册的头部交易所。使用此邀请码：**1910967** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，土豪可忽略。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)
+2. [币安](https://accounts.binance.com/zh-TC/register?ref=UOJ26YSK)（Binance）
    全球交易量第一。中国大陆注册币安国际版方法：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723 "币安交易所新号注册及身份证KYC过审")
-3. [芝麻开门](https://www.gate.ac/signup/1094920)（Gate.io）[备用链接](https://www.gate.io/signup/1094920)
+3. [芝麻开门](https://www.gate.ac/signup/632970)（Gate.io）[备用链接](https://www.gate.io/signup/632970)
    山寨币数量最多。
 4. [FTX](ftx.com)
    金融衍生品第一
@@ -26,11 +26,9 @@
 
 ## 币种资讯
 
-1. [非小号](https://www.feixiaohao.co/)
-   国内的行情工具，里面有币种信息、交易所信息、概念板块行情、排行榜等等。
-2. [coinmarketcap](https://coinmarketcap.com/zh/)
+1. [coinmarketcap](https://coinmarketcap.com/zh/)
    **最全面加密货币数据分析及学习平台**。获取的信息包括，币种的实时价格、交易量、市值、波动，以及历史价格、上了什么交易所、成交量如何等等。属于老牌的权威网站，必须入手。
-3. [coingecko](www.coingecko.com/)
+2. [coingecko](www.coingecko.com/)
    此网站也是像CMC一样的网站，但它有自己的一套排序规则，会根据项目进展情况、社区活跃情况以及社媒关注度进行综合评分并排序。推荐它的原因还有它的艾希欧评分体系，会综合其它网站艾希欧评分进行综合打分。
 
 ## 数据大全
@@ -134,8 +132,8 @@
 
 ### 软件钱包
 
-1. [Tokenpocket](https://www.tokenpocket.pro/)
-2. [Metamask](https://metamask.io/)
+1. [Metamask](https://metamask.io/) 【推荐】
+2. [Tokenpocket](https://www.tokenpocket.pro/)
 3. [Imtoken](https://www.token.im/)
 
 ### 硬件钱包
